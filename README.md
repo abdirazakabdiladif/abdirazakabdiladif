@@ -1,9 +1,8 @@
 # Hi there! 👋 I'm Abdirzak Abdiladif Ahmed  
 
-### 🚀 Software Engineering Student | Full-Stack Developer  
+### 🚀 Software Engineering  | Full-Stack Developer  
 
-I'm a passionate **Software Engineering student** with skills in both **Frontend** and **Backend** development. I love building efficient, scalable, and user-friendly applications.  
-
+I'm a passionate *Software Engineering * with skills in both **Frontend** and **Backend** development. 
 ---
 
 ## 🔧 Tech Stack  
@@ -11,12 +10,15 @@ I'm a passionate **Software Engineering student** with skills in both **Frontend
 - React.js ⚛️  
 - HTML5 & CSS3  
 - JavaScript (ES6+)  
-- Tailwind CSS / Bootstrap  
+- Tailwind CSS / Bootstrap
+    
 
 ### 🖥️ Backend  
 - Node.js  
 - Express.js  
-- PHP  
+- PHP
+- java
+- c++
 - MySQL / PostgreSQL / MongoDB  
 
 ### 🛠️ Tools & Technologies  
