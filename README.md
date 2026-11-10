@@ -38,10 +38,9 @@ I'm a passionate *Software Engineering * with skills in both **Frontend** and **
 ---
 
 ## 📫 Let's Connect  
-📧 Email: ddu1401081@ddu.edu.et  
-📧 Secondary Email: hodosharif10@gmail.com  
+📧 Email: ddu1401081@ddu.edu.et   
  
 
 ---
 
-⭐ **Feel free to check out my projects and contributions!**  
+⭐ **lFeel free to check out my projects and contributions!**  
