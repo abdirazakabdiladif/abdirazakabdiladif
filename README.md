@@ -2,26 +2,26 @@
 
 **Software Engineer · Full-Stack Developer · Product Engineering**
 
-I build digital products that solve real-world problems. My work sits at the intersection of software engineering, system architecture, and product development — turning ideas and complex requirements into practical, scalable solutions.
+I build digital products that solve real-world problems. My work combines software engineering, application development, system architecture, and product thinking to turn ideas into practical, scalable solutions.
 
 Currently building and evolving digital platforms at **CelluTech**.
 
 ### Focus Areas
 
-- Full-Stack & Mobile Development
+- Full-Stack & Application Development
+- Web & Mobile Application Engineering
 - Software Architecture & System Design
 - Product Engineering & Strategy
 - Application Security & Offensive Security
 
 ### Technology
 
-`JavaScript` `TypeScript` `React` `React Native` `Node.js` `Express` `Python` `MySQL` `Redis` `Git` `Linux`
+`JavaScript` `TypeScript` `React` `React Native` `Node.js` `Express.js` `Python` `MySQL` `Redis` `Git` `Linux`
 
 ### Connect
 
-&#x20;[Email](mailto\:YOUR_EMAIL)\:abdirazak\@cellutech.net, gellycode79\@gmail.com
-
-
+- **Work:** [abdirazak@cellutech.net](mailto:abdirazak@cellutech.net)
+- **Personal:** [gellycode@gmail.com](mailto:gellycode@gmail.com)
 
 ---
 
