@@ -1,46 +1,29 @@
-# Hi there! 👋 I'm Abdirzak Abdiladif Ahmed  
+Abdirazak Abdiladif
 
-### 🚀 Software Engineering  | Full-Stack Developer  
+Software Engineer · Full-Stack Developer · Product Engineering
 
-I'm a passionate *Software Engineering * with skills in both **Frontend** and **Backend** development. 
----
+I build digital products that solve real-world problems. My work sits at the intersection of software engineering, system architecture, and product development — turning ideas and complex requirements into practical, scalable solutions.
 
-## 🔧 Tech Stack  
-### 💻 Frontend  
-- React.js ⚛️  
-- HTML5 & CSS3  
-- JavaScript (ES6+)  
-- Tailwind CSS / Bootstrap
-    
+Currently building and evolving digital platforms at CelluTech.
 
-### 🖥️ Backend  
-- Node.js  
-- Express.js  
-- PHP
-- java
-- c++
-- MySQL / PostgreSQL / MongoDB  
+Focus Areas
 
-### 🛠️ Tools & Technologies  
-- Git & GitHub  
-- RESTful APIs  
-- Postman  
-- Docker (Basics)  
+Full-Stack & Mobile Development
 
----
+Software Architecture & System Design
 
-## 📌 What I Do  
-✅ Build modern and responsive web applications  
-✅ Develop RESTful APIs for seamless backend integration  
-✅ Work on personal and open-source projects  
-✅ Continuously learn and improve my skills  
+Product Engineering & Strategy
 
----
+Application Security & Offensive Security
 
-## 📫 Let's Connect  
-📧 Email: ddu1401081@ddu.edu.et   
- 
+Technology
 
----
+JavaScript TypeScript React React Native Node.js Express Python MySQL Redis Git Linux
 
-⭐ **lFeel free to check out my projects and contributions!**  
+Connect
+
+ Email:abdirazak@cellutech.net, gellycode79@gmail.com
+
+
+
+Engineering solutions. Building products. Creating impact.
